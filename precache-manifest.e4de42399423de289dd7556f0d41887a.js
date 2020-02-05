@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff9d6ca555a796a031627ec282fb5950",
+    "revision": "07131a8bd133ec3f5aab43de39da2de2",
     "url": "/AddressBook/index.html"
   },
   {
-    "revision": "30e142fa53077449b14a",
+    "revision": "bc79761c837ec1eb50d4",
     "url": "/AddressBook/static/css/main.03b6363f.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/AddressBook/static/js/2.882c6436.chunk.js.LICENSE"
   },
   {
-    "revision": "30e142fa53077449b14a",
-    "url": "/AddressBook/static/js/main.51002642.chunk.js"
+    "revision": "bc79761c837ec1eb50d4",
+    "url": "/AddressBook/static/js/main.a3212a35.chunk.js"
   },
   {
     "revision": "aa254103c604f3ba0f58",
